@@ -1,0 +1,39 @@
+[submodule "lab5-frankiscuwu"]
+	path = lab5-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab5-frankiscuwu
+[submodule "lab9-frankiscuwu"]
+	path = lab9-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab9-frankiscuwu
+[submodule "lab3-frankiscuwu"]
+	path = lab3-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab3-frankiscuwu
+[submodule "lab-10-frankiscuwu"]
+	path = lab-10-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab-10-frankiscuwu
+[submodule "lab-8-frankiscuwu"]
+	path = lab-8-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab-8-frankiscuwu
+[submodule "lab1-frankiscuwu"]
+	path = lab1-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab1-frankiscuwu
+[submodule "cs506-final-project"]
+	path = cs506-final-project
+	url = https://github.com/CS506-Boston-University/cs506-final-project
+[submodule "lab-6-frankiscuwu"]
+	path = lab-6-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab-6-frankiscuwu
+[submodule "midterm-frankiscuwu"]
+	path = midterm-frankiscuwu
+	url = https://github.com/CS506-Boston-University/midterm-frankiscuwu
+[submodule "lab4-frankiscuwu"]
+	path = lab4-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab4-frankiscuwu
+[submodule "lab7-frankiscuwu"]
+	path = lab7-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab7-frankiscuwu
+[submodule "lab2-frankiscuwu"]
+	path = lab2-frankiscuwu
+	url = https://github.com/CS506-Boston-University/lab2-frankiscuwu
+[submodule "CS506-Fall2025"]
+	path = CS506-Fall2025
+	url = https://github.com/CS506-Boston-University/CS506-Fall2025
