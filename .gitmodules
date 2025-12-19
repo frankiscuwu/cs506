@@ -18,7 +18,7 @@
 	url = https://github.com/CS506-Boston-University/lab1-frankiscuwu
 [submodule "cs506-final-project"]
 	path = cs506-final-project
-	url = https://github.com/CS506-Boston-University/cs506-final-project
+	url = https://github.com/frankiscuwu/cs506-final-project
 [submodule "lab-6-frankiscuwu"]
 	path = lab-6-frankiscuwu
 	url = https://github.com/CS506-Boston-University/lab-6-frankiscuwu
@@ -36,4 +36,4 @@
 	url = https://github.com/CS506-Boston-University/lab2-frankiscuwu
 [submodule "CS506-Fall2025"]
 	path = CS506-Fall2025
-	url = https://github.com/CS506-Boston-University/CS506-Fall2025
+	url = https://github.com/gallettilance/CS506-Fall2025
